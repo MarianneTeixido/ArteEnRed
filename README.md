@@ -65,15 +65,13 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 - 5 de abril  
 Primer parcial
 - 24 de mayo  
-Segundo parcial:  
+Segundo parcial  
 - 31 de mayo  
-Entrega de calificaciones:
-
+Entrega de calificaciones
 - 4 de junio  
-Fin del curso:  
-
+Fin del curso  
 - 7 de junio  
-Aclaraciones y pendientes:  
+Aclaraciones y pendientes  
 
 
 ## Actividades de aprendizaje
