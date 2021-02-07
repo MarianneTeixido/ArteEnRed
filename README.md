@@ -55,7 +55,7 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 
 - [ ] [Clase 10. Ciborgización del cuerpo]()
 
-- [ ] [Clase 11. 2do Examen Ensayo]]()
+- [ ] [Clase 11. 2do Examen Ensayo]()
 
 - [ ] [Clase 12. Dispositivos de exhibición]()
 
