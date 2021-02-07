@@ -25,7 +25,7 @@ la red, en el planteamiento de un proyecto de producción.
 2.2 Redes de colaboración creativa  
 2.3 Comunidades digitales  
 
-3 Búsqueda de identidad, límites del cuerpo  
+3. Búsqueda de identidad, límites del cuerpo  
 3.1 Avatares y alteregos  
 3.2 Manipulación del cuerpo físico con herramientas digitales  
 3.3 Cíborgización y cuerpo digital  
