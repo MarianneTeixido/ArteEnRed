@@ -1,5 +1,5 @@
 # Arte en la Red
-Licenciatura en Arte Digital 
+Licenciatura en Arte Digital   
 Universidad Autónoma del Estado de México
 
 ![portada](https://github.com/MarianneTeixido/ABCDigital2021/blob/main/img/portada.png)
@@ -7,14 +7,10 @@ Universidad Autónoma del Estado de México
 ## Objetivos
 - Experimentar con las estrategias de creación visual y con las propuestas de sucesos artísticos en
 la red, en el planteamiento de un proyecto de producción.  
-- El alumno será capaz de reconocer los discursos que rodean a las controversias
-relacionadas con los nuevos formatos de intercambio en internet.  
-- El alumno será capaz de identificar la incidencia de los espacios colaborativos y de
-creación de comunidad en plataformas digitales a través de una selección de obra que se relaciona
-con estos temas.   
-- El alumno identificará los conceptos clave vinculados a la expansión del cuerpo físico
-en el espacio digital e igualmente analizará piezas de artistas que han llevado su práctica al
-internet para encontrar nuevos límites de su cuerpo.  
+- Detectar los conceptos que animan la práctica del arte en la red, mediante su ejercicio en creaciones en ese medio. Para la creación de sucesos artísticos en la red.
+- Reconocer los discursos y formatos de intercambio en internet.  
+- Identificar la incidencia de los espacios colaborativos y de creación de comunidad en plataformas digitales.   
+- Identificar los conceptos clave vinculados a la expansión del cuerpo físico en el espacio digital e igualmente analizará piezas de artistas que han llevado su práctica al internet para encontrar nuevos límites de su cuerpo.  
   
 ## Temario
 
@@ -35,6 +31,8 @@ internet para encontrar nuevos límites de su cuerpo.
 3.3 Cíborgización y cuerpo digital  
 
 ## Sesiones
+
+Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/calendario.pdf)
 
 - [ ] [Clase 01. ¿Arte en red o de la red?]
 
@@ -62,30 +60,46 @@ internet para encontrar nuevos límites de su cuerpo.
 
 - [ ] [Clase 13.]
 
-Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/calendario.pdf)
+
+## Fechas importantes
+
+Primera evaluación - 5 de abril  
+Segunda evaluación - 31 de mayo  
+Fin del curso - 4 de junio  
+Aclaraciones y pendientes - 7 de junio  
 
 ## Actividades de aprendizaje
 
-Bajo conducción docente.   
-	- Discusiones colectivas y proyección de material gráfico y audiovisual.   
-	- Ejercicios de demostración.   
-	- Proyectos de colaboración en línea.   
+- Exposición de conceptos.   
+- Lectura, discusión de textos sobre las tecnologías y su relación con las artes.  
+- Prácticas en clase relacionadas con las temáticas de la unidad.  
+- Elaboración y discusión de textos al respecto de las tecnologías y su relación con los paradigmas de construcción simbólica de la realidad.  
+- Presentación de proyectos personales.  
 
-Independiente.   
-	- Ejercicios de perfeccionamiento.   
-	- Producir entregables individuales y grupales en formatos digitales.   
-	
+## Evaluación 
+
+
 
 ## Acervo bibliográfico  
 
 Básico:  
+- Baigorri, L. (2006) Net.art: Prácticas estéticas y políticas en la red. Brumaria 6, Madrid.  
 - Brea, J.L. (2007). cultura_RAM. Mutaciones de la cultura en la era de su distribución electrónica. Gedisa. Barcelona.  
 - Brea, J.L. 2010. Las tres eras de la imagen. Imagen- materia, film, e-imagen. Akal.Madrid.  
+- Brea, J. L. (2002) La era postmedia. Acción comunicativa, prácticas (post)artísticas y dispositivos neomediales. Ed. Centro de Arte de Salamanca, Salamanca.  
 - Carrillo, J. (2005). Arte en la red. Comunicación no.3, 301-305.  
+- Manovich, L.  (2005) El lenguaje de los nuevos medios de comunicación. La imagen en la era digital. Paidós Comunicación 163, Barcelona.  
+- Stallman, R. M. (2004) Software libre para una sociedad libre. Ed. Traficantes de sueños, Madrid.  
+- Zafra, R. (2010) Un cuarto propio conectado (Ciber)espacio y (auto)gestión del yo. Fórcola Ediciones, Madrid.
+Simón Marchand Fiz. Real virtual. Paidós, Editorial Barcelona. 2008
+
+
+
 
 
 Complementario:  
 - Haraway, D. (1988). Manifiesto cíborg. Londres: Stenberg Press  
+- Manovich, Lev (2002). Generation Flash. Obtenido de [http://aleph-arts.org/ubiquid/texto.php?Id=5](http://aleph-arts.org/ubiquid/texto.php?Id=5)
 - Prada, J. M. (2012). Prácticas artísticas e internet en la época de las redes sociales. Madrid, España: Akal.  
 - Prada, J. M. (2018). El ver y las imágenes en el tiempo de Internet. Tres Cantos: Akal.  
 
@@ -95,7 +109,7 @@ Mesografía:
 - Constante, A. (2016). Arte en redes sociales. Ciudad de México: UNAM. Obtenido de [http://ru.ffyl.unam.mx/handle/10391/4946](http://ru.ffyl.unam.mx/handle/10391/4946)  
 - Gómez,N. (2019). Amor Android. Barcelona: CCCB. Obtenido de [http://lab.cccb.org/es/amor-android-es/](http://lab.cccb.org/es/amor-android-es/)  
 - López, M. (2017). Arte, vida y redes sociales de internet: el artista en los inicios del siglo XXI. Nuevos paradigmas.Vigo: Universidad de Vigo. Obtenido de [https://dialnet.unirioja.es/servlet/tesis?codigo=150457](https://dialnet.unirioja.es/servlet/tesis?codigo=150457)  
-- Martín Prada, J. (2012) Otro tiempo para el arte. Cuestiones y comentarios sobre el arte actual. Obtenido d 
+- Martín Prada, J. (2012) Otro tiempo para el arte. Cuestiones y comentarios sobre el arte actual. Obtenido de 
 [https://www.juanmartinprada.net/textos/Martin_Prada_Juan_Otro_tiempo_para_el_arte_2012.pdf](https://www.juanmartinprada.net/textos/Martin_Prada_Juan_Otro_tiempo_para_el_arte_2012.pdf)  
 
 
