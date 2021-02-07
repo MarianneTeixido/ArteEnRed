@@ -62,10 +62,16 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 
 ## Fechas importantes
 
-Primera evaluación - 5 de abril  
-Segunda evaluación - 31 de mayo  
-Fin del curso - 4 de junio  
-Aclaraciones y pendientes - 7 de junio  
+Primer parcial:  
+- 5 de abril  
+Segundo parcial:  
+- 24 de mayo  
+Entrega de calificaciones:
+- 31 de mayo  
+Fin del curso:  
+- 4 de junio  
+Aclaraciones y pendientes:  
+- 7 de junio  
 
 ## Actividades de aprendizaje
 
