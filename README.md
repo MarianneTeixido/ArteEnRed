@@ -66,6 +66,9 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 - 5 de abril  
 1er Examen Parcial  
 
+- 12 Abril  
+Entrega escrita del proyecto a desarrollar
+
 - 17 de mayo  
 2do Examen Parcial  
 
@@ -91,7 +94,7 @@ Aclaraciones y pendientes
 
 - Participación 10%  
 - Examen 40% (Dos a lo largo del semestre en formato ensayo)  
-- Trabajo final 50% (Del cual 20% documentación escrita, 30% ejecurción).  
+- Trabajo final 50% (Del cual 20% documentación escrita, 30% ejecución).  
 
 ## Acervo bibliográfico  
 
