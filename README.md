@@ -62,7 +62,7 @@ internet para encontrar nuevos límites de su cuerpo.
 
 - [ ] [Clase 13.]
 
-Para consultar el calendario, da click [acá]()
+Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/calendario.pdf)
 
 ## Actividades de aprendizaje
 
