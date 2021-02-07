@@ -15,20 +15,21 @@ la red, en el planteamiento de un proyecto de producción.
 ## Temario
 
 1. Nuevos formatos de intercambio en internet  
-1.1 Piratería  
-1.2 Teoría del remix  
-1.3 Derechos de autor, Creative Commons y Copyleft  
-1.4 Redes P2P  
+1.1 Antecedentes  
+1.2 Derechos de autor, Creative Commons y Copyleft  
+1.3 Pirateria y Teoría del remix   
+1.4 Software y herramientas   
 
 2. Compartir saberes, crear comunidades  
-2.1 Cultura del tutorial  
+2.1 Redes P2P y sistema cliente-servidor  
 2.2 Redes de colaboración creativa  
-2.3 Comunidades digitales  
+2.3 Comunidades digitales, bases de datos y reciclaje.  
 
 3. Búsqueda de identidad, límites del cuerpo  
-3.1 Avatares y alteregos  
-3.2 Manipulación del cuerpo físico con herramientas digitales  
-3.3 Cíborgización y cuerpo digital  
+3.1 Avatares y alteregos. Manipulación del cuerpo físico con herramientas digitales  
+3.2 Cíborgización y cuerpo digital   
+3.3 Dispositivos de exhibición en red   
+3.4 Multiversos. Realidad Virtual y Realidad Aumentada.  
 
 ## Sesiones
 
@@ -36,40 +37,44 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 
 - [ ] [Clase 01. ¿Arte en red o de la red?](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c1/README.md)
 
-- [ ] [Clase 02.]()
+- [ ] [Clase 02. Derechos de Autor, Creative Commons y Copyleft]()
 
-- [ ] [Clase 03.]()
+- [ ] [Clase 03. Piratería y Teoría del Remix]()
 
-- [ ] [Clase 04.]()
+- [ ] [Clase 04. Software y herramientas]()
 
-- [ ] [Clase 05.]()
+- [ ] [Clase 05. Redes 2P2]()
 
-- [ ] [Clase 06.]()
+- [ ] [Clase 06. Examen Ensayo]()
 
-- [ ] [Clase 07.]()
+- [ ] [Clase 07. Comunidades digitales de creación. Entrega escrita del proyecto a desarrollar]()
 
-- [ ] [Clase 08.]()
+- [ ] [Clase 08. Reciclaje y redes de colaboración]()
 
-- [ ] [Clase 09.]()
+- [ ] [Clase 09. Avatares y alteregos. Cuerpo físico y digital]()
 
-- [ ] [Clase 10.]()
+- [ ] [Clase 10. Ciborgización del cuerpo]()
 
-- [ ] [Clase 11.]()
+- [ ] [Clase 11. 2do Examen Ensayo]]()
 
-- [ ] [Clase 12.]()
+- [ ] [Clase 12. Dispositivos de exhibición]()
 
-- [ ] [Clase 13.]()
+- [ ] [Clase 13. Entrega y revisión de proyectos finales]()
 
 ## Fechas importantes
   
 - 5 de abril  
-Primer parcial
-- 24 de mayo  
-Segundo parcial  
+1er Examen Parcial  
+
+- 17 de mayo  
+2do Examen Parcial  
+
 - 31 de mayo  
-Entrega de calificaciones
+Entrega y revisión de proyecto finales
+
 - 4 de junio  
 Fin del curso  
+
 - 7 de junio  
 Aclaraciones y pendientes  
 
@@ -84,7 +89,9 @@ Aclaraciones y pendientes
 
 ## Evaluación 
 
-
+- Participación 10%  
+- Examen 40% (Dos a lo largo del semestre en formato ensayo)  
+- Trabajo final 50% (Del cual 20% documentación escrita, 30% ejecurción).  
 
 ## Acervo bibliográfico  
 
@@ -98,9 +105,6 @@ Básico:
 - Stallman, R. M. (2004) Software libre para una sociedad libre. Ed. Traficantes de sueños, Madrid.  
 - Zafra, R. (2010) Un cuarto propio conectado (Ciber)espacio y (auto)gestión del yo. Fórcola Ediciones, Madrid.
 Simón Marchand Fiz. Real virtual. Paidós, Editorial Barcelona. 2008
-
-
-
 
 
 Complementario:  
