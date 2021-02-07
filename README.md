@@ -61,17 +61,20 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 - [ ] [Clase 13.]()
 
 ## Fechas importantes
-
-Primer parcial:  
+  
 - 5 de abril  
-Segundo parcial:  
+Primer parcial
 - 24 de mayo  
-Entrega de calificaciones:
+Segundo parcial:  
 - 31 de mayo  
-Fin del curso:  
+Entrega de calificaciones:
+
 - 4 de junio  
-Aclaraciones y pendientes:  
+Fin del curso:  
+
 - 7 de junio  
+Aclaraciones y pendientes:  
+
 
 ## Actividades de aprendizaje
 
