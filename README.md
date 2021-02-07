@@ -34,32 +34,31 @@ la red, en el planteamiento de un proyecto de producción.
 
 Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/calendario.pdf)
 
-- [ ] [Clase 01. ¿Arte en red o de la red?]
+- [ ] [Clase 01. ¿Arte en red o de la red?](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c1/README.md)
 
-- [ ] [Clase 02.]
+- [ ] [Clase 02.]()
 
-- [ ] [Clase 03.]
+- [ ] [Clase 03.]()
 
-- [ ] [Clase 04.]
+- [ ] [Clase 04.]()
 
-- [ ] [Clase 05.]
+- [ ] [Clase 05.]()
 
-- [ ] [Clase 06.]
+- [ ] [Clase 06.]()
 
-- [ ] [Clase 07.]
+- [ ] [Clase 07.]()
 
-- [ ] [Clase 08.]
+- [ ] [Clase 08.]()
 
-- [ ] [Clase 09.]
+- [ ] [Clase 09.]()
 
-- [ ] [Clase 10.]
+- [ ] [Clase 10.]()
 
-- [ ] [Clase 11.]
+- [ ] [Clase 11.]()
 
-- [ ] [Clase 12.]
+- [ ] [Clase 12.]()
 
-- [ ] [Clase 13.]
-
+- [ ] [Clase 13.]()
 
 ## Fechas importantes
 
