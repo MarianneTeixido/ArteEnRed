@@ -22,10 +22,20 @@ Cualidades
 
 ![](https://github.com/MarianneTeixido/ABCDigital2021/blob/main/img/arpanet.png)
 
-- Historia de Internet. Revisar Lectura de Laura Baigorri.
+- Historia de Internet. Revisar Lectura de Laura Baigorri.  
 
-- Interfaz
+Interfaz  
+_Los límites de nuestro mundo son los límites de nuestra interfaz._  
+Por tanto existen tantos mundo como interfaces.  
 
+- Textuales: [Hydra](https://hydra.ojack.xyz/?sketch_id=example_3)  
+- Gráficas: [Olia Lialina](http://art.teleportacia.org/#CenterOfTheUniverse)  
+
+
+Siguiente sesión. Leer el primer capítulo de:  
+
+Brea, J.L. (2007). cultura_RAM. Mutaciones de la cultura en la era de su distribución electrónica. Gedisa. Barcelona.
+ 
 
 
 
