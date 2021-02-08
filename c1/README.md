@@ -1,6 +1,6 @@
 # Arte en red o de la red
 
-![pd2](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/img3.png)
+![pd2](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/1.png)
 
 
 _The "Internet myth" is the result of a massive_  
