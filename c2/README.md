@@ -1,4 +1,4 @@
-# Creative Commons, Copileft y Copyright
+# Creative Commons, Copyleft y Copyright
 
 ![pd2](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/1.png)
 
@@ -27,14 +27,24 @@ Para manterne el software libre, el proyecto GNU empleó el método que llamaron
 
 Stallman, R. (2004). 28 pp.
 
-El **Copyleft** permite que nosotros podamos hacer de una programa:
-- su copia
+El **Copyleft** permite que nosotros podamos hacer de un programa:
+- copia
 - modificación 
 - distribución de versiones modificadas  
+
+GNU     /  Linux  
+Sistema /  Kernel
 
 __Siempre que no se añada ninguna clase de restricción__  
 
 GNU [Licencia Pública General GNU] o para abreviar GNU GPL
+
+Software Libre, no sólo un sustituto sino otra forma de pensar. 
+
+### Software Open Source
+
+
+
 
 
 
