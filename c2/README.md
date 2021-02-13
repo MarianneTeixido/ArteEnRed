@@ -69,7 +69,7 @@ libertad, comunidad y principios."
 
 Stallman, R. (2004). 42 y 43 pp.
 
-Ejemplo: [TensorFlow*](https://www.tensorflow.org/?hl=es-419)
+Ejemplo: [TensorFlow](https://www.tensorflow.org/?hl=es-419)
 
 
 ## Copyright 
