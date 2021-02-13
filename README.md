@@ -35,7 +35,7 @@ la red, en el planteamiento de un proyecto de producción.
 
 Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/calendario.pdf)
 
-- [ ] [Clase 01. ¿Arte en red o de la red?](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c1/README.md)
+- [X] [Clase 01. ¿Arte en red o de la red?](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c1/README.md)
 
 - [ ] [Clase 02. Derechos de Autor, Creative Commons y Copyleft](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c2/README.md)
 
