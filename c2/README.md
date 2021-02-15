@@ -376,7 +376,9 @@ x += 10; // es igual a x = x +10
 x ++; // es igual a x = x + 1 
 ```
 
-
+### Actividad
+ - Con lo que hemos revisado, traslada una ilustración tuya o que encuentres en internet al lenguaje de Processing. 
+ - Compartir los resultados. 
 
 
 
