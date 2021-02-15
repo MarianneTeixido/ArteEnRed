@@ -105,7 +105,7 @@ _________________________
 
 # Historia del NET.ART 
 
-![pd3](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/netartd.gif)
+![pd3](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/netartd.jpg)
 
 ### Actividad 
 
