@@ -115,7 +115,9 @@ Complementario:
 - Manovich, Lev (2002). Generation Flash. Obtenido de [http://aleph-arts.org/ubiquid/texto.php?Id=5](http://aleph-arts.org/ubiquid/texto.php?Id=5)
 - Prada, J. M. (2012). Prácticas artísticas e internet en la época de las redes sociales. Madrid, España: Akal.  
 - Prada, J. M. (2018). El ver y las imágenes en el tiempo de Internet. Tres Cantos: Akal.  
-
+- Reas, C., & Fry, B. (2014). Processing: a programming handbook for visual
+designers and artists. Massachusetts: MIT Press.
+- Reas, C., & Fry, B. (2015) Make: Getting Started with Processing. San Francisco: Maker Media. 
 
 Mesografía:  
 - Bosco, R. (2018). Arte en la edad del silicio. El País. Obtenido de [https://blogs.elpais.com/arte-en-la-edad-silicio/](https://blogs.elpais.com/arte-en-la-edad-silicio/)  
