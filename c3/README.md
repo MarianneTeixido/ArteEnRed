@@ -60,7 +60,7 @@ ______________
 - Ejecución de Processing, PDE, sketches. 
 - Componentes de un sketch de Processing.
 - Ejemplo de uso: [Dmitri Cherniak](https://www.instagram.com/dmitricherniak/)
-
+- [Código](https://gist.github.com/MarianneTeixido/f23f37b67e1579abd3a874bccd1fbe45)
 
 ## Funciones (en processing)
 
