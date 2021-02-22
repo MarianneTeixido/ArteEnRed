@@ -45,11 +45,10 @@ fecha.
 
 ### Actividad 
 
-- Leer MANUAL DE REFERENCIA PARA EL ARTISTA DE INTERNET (p. 19 Net Art, Baigorri)
-- Comenzar un documento con la planeación de su proyecto. 
+- Leer MANUAL DE REFERENCIA PARA EL ARTISTA DE INTERNET (p. 19 Net Art, Baigorri) Visitar las piezas sugeridas. 
+- Tomando como referencia la lectura anterior, comienza de manera individual un documento con la planeación de tu proyecto. 
 
 ______________ 
-
 
 
 # Processing 
@@ -272,6 +271,11 @@ x ++; // es igual a x = x + 1
  - Con lo que hemos revisado, traslada una ilustración tuya o que encuentres en internet al lenguaje de Processing. 
  - Compartir los resultados. 
 
+
+### Tarea
+- Realiza una investigación sobre herramientas y/o software que se pueda usar para hacer net art. Pueden herramientas para crear páginas web interactivas, redes sociales, software creativo con fines artísticos, etc. La siguiente clase comenzaremos con eso. 
+
+- Visita una exposición o pieza reciente en formato web. 
 
 
 
