@@ -37,9 +37,9 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 
 - [X] [Clase 01. ¿Arte en red o de la red?](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c1/README.md)
 
-- [ ] [Clase 02. Derechos de Autor, Creative Commons y Copyleft](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c2/README.md)
+- [X] [Clase 02. Derechos de Autor, Creative Commons y Copyleft](https://github.com/MarianneTeixido/ArteEnRed/blob/main/c2/README.md)
 
-- [ ] [Clase 03. Historia del net art. Software y herramientas](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c3)
+- [X] [Clase 03. Historia del net art. Software y herramientas](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c3)
 
 - [ ] [Clase 04. Piratería y Teoría del Remix]()
 
