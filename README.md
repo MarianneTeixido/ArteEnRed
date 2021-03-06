@@ -41,7 +41,7 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 
 - [X] [Clase 03. Historia del net art. Software y herramientas](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c3)
 
-- [ ] [Clase 04. Piratería y Teoría del Remix]()
+- [ ] [Clase 04. Piratería y Teoría del Remix](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c4)
 
 - [ ] [Clase 05. Redes 2P2]()
 
