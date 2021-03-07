@@ -2,6 +2,13 @@
 
 ![collage](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/collage.png)
 
+Collage del #8M2020 por [@la_amarillista](https://www.instagram.com/p/B9kutFgls_w/)
+
+Y cito: 
+"Queremos vivir, no sobrevivir.
+
+Le quiero dar unas gordas gracias a quienes pusieron el cuerpo en las calles este fin de semana. Gracias a las feministas por los derechos que nos han dado con sus luchas, y por todos los que van a ganar. ¿ustedes por qué marcharon este 8M? (si conocen a las dueñas de los carteles o las fotos, me lo hacen saber para etiquetarlas)"
+
 ## Remix como práctica cultural
 
 Laurence Lessig, es fundador de la organización sin fines de lucro Creative Commons, junto a Hal Abelson y Eric Eldred. 
@@ -25,13 +32,54 @@ Juicio Grand Upright Music Ltd. vs. Warner Bros. Records Inc. en Lessig, L. (200
 - _collage_ en imagen o puntura
 - _remix_ en entornos digitales 
  
-Para Lessig es remix es "una expresión crítica de libertad creativa que ninguna sociedad libre debería de restringir en una amplia gama de contextos. 
+Para Lessig es remix es "una expresión crítica de libertad creativa que ninguna sociedad libre debería de restringir en una amplia gama de contextos" (Lessig; 2008, 90pp). 
 
-Remix e interacción - texto - blogs, wikipedia. 
+Remix textual e interacción - web - memes, blogs, wikipedia. 
 
 ![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/edit.png) 
 
+_La web ediable_
+
+REMIX en la cultura. Leer/Escribir
+
+Tradución
+- Folklore
+- Recetas de cocina
+- Parodias
+
+Artes gráficas
+- Apropiación, réplicas y reinterpretaciones. 
+- Grafitti
+
+Libros e información
+- Wikipedia y Wikimedia
+- Fanzine
+- FanFictions
+- Mashups
+- Mapas editables (OpenStreetMap)
+- Flickr o Deviantart
+
+Música 
+- DJing
+- Sampling
+- Mashups de música
+
+Cine y video
+- Adaptaciones 
+- Mashups de video
+- Vidding 
+- VJing
+- Fandubs
+- Walt Disney
+- GIF's
+
+
+![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/copyfight.jpg) 
+
+## #COPYFIGHT ! 
+
+
 
   
- 
+
 
