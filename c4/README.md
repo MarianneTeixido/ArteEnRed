@@ -158,7 +158,7 @@ Por último, también podemos entener la apropiación como una forma de acceso a
 
 ![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/lo-tecnico.jpg) 
 
-La información, imágenes y texto de este apartado y [Piratería Cultural](#pirateria cultural)fue consultada, copiada y remixeada de:  
+La información, imágenes y texto de este apartado y [Piratería Cultural](#pirateria-cultural)fue consultada, copiada y remixeada de:  
 [¡Quiero ser pirata!](https://utopia.partidopirata.com.ar/quiero_ser_pirata.html#por-qu%C3%A9-piratas)  
 [Piratería, apropiación, invisibilización, capital social y cultura libre](https://partidopirata.com.ar/2021/03/02/pirateria-apropiacion-invisibilizacion-capital-social-y-cultura-libre/)
 [Un zine de licencias](https://utopia.partidopirata.com.ar/zines/licencias_libres.html)
