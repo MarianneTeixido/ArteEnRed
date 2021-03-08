@@ -142,7 +142,7 @@ Acá algunos apuntes de Librenauta al respecto de la cultura de la piratería. R
 
 __-No hay futuro sin eliminar la propiedad intelectual-__
 
-A partir del nexo entre política y tecnología -_tecno-políticas_- las activistas anti-globalización adoptaron un abordaje tecno-político al que describo como ciber-autonomista, enraizado en la contra-cultura de los ’70 y ’80, la cultura DIY y la tradición de los medios alternativos; que van desde las radios piratas hasta los fanzines.  Esta perspectiva del ciber-autonomismo toma Internet como un espacio autónomo que puede ser autogestivo desde redes libres y desentralizadas. 
+>"A partir del nexo entre política y tecnología -_tecno-políticas_- las activistas anti-globalización adoptaron un abordaje tecno-político al que describo como ciber-autonomista, enraizado en la contra-cultura de los ’70 y ’80, la cultura DIY y la tradición de los medios alternativos; que van desde las radios piratas hasta los fanzines.  Esta perspectiva del ciber-autonomismo toma Internet como un espacio autónomo que puede ser autogestivo desde redes libres y desentralizadas."
 
 En ese sentido Internet se convierte en un espacio de resistencia, contestación contra-cultural y de movilización contra-hegemónica.
 
