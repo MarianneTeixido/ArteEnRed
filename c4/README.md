@@ -29,11 +29,9 @@ Collage y texto del #8M2020 por [@la_amarillista](https://www.instagram.com/p/B9
 Algunas citas. 
 
 >"El Remix es meta -nunca es original. Al mismo tiempo, cuando es implementado efectivamente, puede volverse una __herramienta de autonomía__"   
-
 (Nava, 2012, p. 116)
 
 >"Remix implica tomar material preexistente y hacerlo diferente intentando preservar el aura espectacular del original para obtener legitimación alegórica."
-
 (Nava, 2012, p. 12)
 
 Las aproximaciones al remix pueden ser desde lo creativo, autoral, legal e incluso, político. 
@@ -51,8 +49,7 @@ inducir a este tribunal a creer que el robo campa a sus anchas en
 el negocio de la música y que, por esa razón, su conducta aquí
 debería excusarse. La conducta de los demandados en el presente
 caso, sin embargo, no solo viola el Séptimo Mandamiento sino
-también las leyes de copyright de este país."
-
+también las leyes de copyright de este país."  
 Juicio Grand Upright Music Ltd. vs. Warner Bros. Records Inc.  
 (Lessig, 2008, p. 87) 
 
@@ -60,7 +57,10 @@ Juicio Grand Upright Music Ltd. vs. Warner Bros. Records Inc.
 - _collage_ en imagen o puntura
 - _remix_ en entornos digitales 
  
-Para Lessig es remix es "una expresión crítica de libertad creativa que ninguna sociedad libre debería de restringir en una amplia gama de contextos" (Lessig; 2008, 90pp). 
+Para Lessig es remix es 
+
+>"Una expresión crítica de libertad creativa que ninguna sociedad libre debería de restringir en una amplia gama de contextos"   
+(Lessig; 2008, 90pp). 
 
 Remix textual e interacción - web - memes, blogs, wikipedia. 
 
