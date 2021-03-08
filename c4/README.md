@@ -155,7 +155,7 @@ En ese sentido Internet se convierte en un espacio de resistencia, contestación
 - Les ciborgs como identidades colectivas
 - Memética 
 
-En conclusión, en palabras dxl Partido Interdimencional Pirata:  
+En conclusión, en palabras dxl Partido Interdimensional Pirata:  
 
 >"Tenemos que romper con el estereotipo de que la piratería se trata solamente de acceder a bienes culturales de forma gratuita."
 
@@ -167,17 +167,17 @@ En conclusión, en palabras dxl Partido Interdimencional Pirata:
 
 La apropiación puede entenderse en varias acepciones algunas de ellas son:
 
-La apropiación cultural ocurre cuando adoptamos formas y expresiones de grupxs marginadxs sin pertenecer a ellxs. Al hacerlo reproducimos las lógicas racistas, odiantes y coloniales aunque de primera instancia sea persivido como apoyo.   
+La apropiación cultural ocurre cuando adoptamos formas y expresiones de grupxs marginadxs sin pertenecer a ellxs. Al hacerlo reproducimos las lógicas racistas, odiantes y coloniales aunque de primera instancia sea percibido como apoyo.   
 
 La apropiación invisibiliza el trabajo individual y colectivo, además de reestablecer los fundamentos de la reproducción de obra en condiciones de explotación que dan continuidad a la lógica capitalista.  
 
-"Para que la cultura sea libre, tiene que estar basada en relaciones reciprocitarias, donde la circulación de bienes culturales garantice también la circulación de capitales y no solo beneficie a quienes tienen garantizado el privilegio y la capacidad de beneficiarse" PIP  
+>"Para que la cultura sea libre, tiene que estar basada en relaciones reciprocitarias, donde la circulación de bienes culturales garantice también la circulación de capitales y no solo beneficie a quienes tienen garantizado el privilegio y la capacidad de beneficiarse" 
 
-Por otro lado, la apropiación de las tecnología de la comunicación y la información, como proceso y transición, nos lleva a situar la tecnología corporativa como una agende de articulación comunitaria, como en cooperativas de cine. 
+Por otro lado, la apropiación de las tecnologías de la comunicación y la información, como proceso y transición, nos lleva a situar la tecnología corporativa como una agente de articulación comunitaria, como en cooperativas de cine. 
 
-Por último, también podemos entener la apropiación como una forma de acceso a la maquinaria y los medios de producción que lo permiten, como el tener acceso a algún programa en el que podamos editar memes. 
+Por último, también podemos entener la apropiación como una forma de acceso a la maquinaria y los medios de producción que lo permiten, como el tener acceso a algún programa en el que podamos editar memes, por ejemplo. 
 
-¿Cómo hacer que las tecnología dejen de hacer lo que no queremos que hagan y cómo hacer para que hagan lo que sí queremos?
+¿Cómo hacer que las tecnologías dejen de hacer lo que no queremos que hagan y cómo hacer para que hagan lo que sí queremos?
 
 ![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/lo-tecnico.jpg) 
 
@@ -195,11 +195,15 @@ Y estan compartidxs bajo [Licencia de Pares Libres (PLP)](https://endefensadelsl
 - Leer de la página 33 a la 48 del libro [Los condenados de la pantalla](https://monoskop.org/images/7/72/Steyerl_Hito_Los_condenados_de_la_pantalla.pdf) de Hito Steyerl. 
 - Discutir sobre el texto. 
 - Ver el documental [El hombre de la cámara](https://vimeo.com/38662356)
-- Enviar por correo un cometario crítico del documental con base en la lectura. Entregar antes del lunes 15 de marzo. 
+- Enviar por correo un comentario crítico del documental con base en la lectura. Entregar antes del lunes 15 de marzo. 
 - Comparte en este pad el nombre y el link de las herramientas que encontraste para la realización de los proyectos finales. Ingresa en el siguiente [link](https://cryptpad.fr/sheet/#/2/sheet/edit/h-t32HN-B-k4-rXNsvU1GqMv/)
 
 
 ## Processing 
+
+A partir de herramientas como Processing, podemos transformar, editar, remixer datos. Estos datos datos pueden ser textos, imágenes, video, bases de datos, flujos de audio y video. Para realizar estas transformaciones debemos de adentrarnos en los principios de la programación con fines creativos.
+
+A continuación realizaremos un repaso de algunos temas vistos en la clase pasada y haremos un ejercicio de remix con las imágenes que trajeron para la clase.  
 
 ### Operadores aritméticos
 
