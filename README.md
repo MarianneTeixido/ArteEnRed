@@ -5,6 +5,8 @@
 
 ![portada](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/noche01.png)
 
+> Imagen de [Emilio Ocelotl](https://emilioocelotl.github.io)
+
 ## Objetivos
 - Experimentar con las estrategias de creación visual y con las propuestas de sucesos artísticos en
 la red, en el planteamiento de un proyecto de producción.  

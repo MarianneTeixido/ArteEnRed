@@ -19,8 +19,6 @@
 	
 ![collage](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/collage.png)
 
-> Imagen de [Emilio Ocelotl](https://emilioocelotl.github.io)
-
 >"Queremos vivir, no sobrevivir. Le quiero dar unas gordas gracias a quienes pusieron el cuerpo en las calles este fin de semana. Gracias a las feministas por los derechos que nos han dado con sus luchas, y por todos los que van a ganar. ¿ustedes por qué marcharon este 8M? (si conocen a las dueñas de los carteles o las fotos, me lo hacen saber para etiquetarlas)"   
 
 Collage y texto del #8M2020 por [@la_amarillista](https://www.instagram.com/p/B9kutFgls_w/)
