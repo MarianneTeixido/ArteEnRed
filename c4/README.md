@@ -160,7 +160,7 @@ La información, imágenes y texto en [Apropiación](#apropiacion) y [Piratería
 [Piratería, apropiación, invisibilización, capital social y cultura libre](https://partidopirata.com.ar/2021/03/02/pirateria-apropiacion-invisibilizacion-capital-social-y-cultura-libre/)  
 [Un zine de licencias](https://utopia.partidopirata.com.ar/zines/licencias_libres.html)
 
-Y estan compartidxs bajo [Licencia de Pares Libres](https://endefensadelsl.org/ppl_deed_es.html)(PPL)
+Y estan compartidxs bajo [Licencia de Pares Libres (PLP)](https://endefensadelsl.org/ppl_deed_es.html)
 
 ## Materialidad de las imágenes
 
