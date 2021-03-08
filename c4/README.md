@@ -2,7 +2,7 @@
 
 ## Contenido 
 - [Remix como práctica cultural](#remix-como-práctica-cultural)
-- [Pirateria cultural](#pirateria-cultural)
+- [Piratería cultural](#piratería-cultural)
 - [Apropiación](#apropiación)
 - [Materialidad de las imágenes](#materialidad-de-las-imágenes)
 	- [Actividades](#actividades)
@@ -29,9 +29,11 @@ Collage y texto del #8M2020 por [@la_amarillista](https://www.instagram.com/p/B9
 Algunas citas. 
 
 >"El Remix es meta -nunca es original. Al mismo tiempo, cuando es implementado efectivamente, puede volverse una __herramienta de autonomía__"   
+
 (Nava, 2012, p. 116)
 
 >"Remix implica tomar material preexistente y hacerlo diferente intentando preservar el aura espectacular del original para obtener legitimación alegórica."
+
 (Nava, 2012, p. 12)
 
 Las aproximaciones al remix pueden ser desde lo creativo, autoral, legal e incluso, político. 
@@ -51,38 +53,42 @@ debería excusarse. La conducta de los demandados en el presente
 caso, sin embargo, no solo viola el Séptimo Mandamiento sino
 también las leyes de copyright de este país."  
 Juicio Grand Upright Music Ltd. vs. Warner Bros. Records Inc.  
+
 (Lessig, 2008, p. 87) 
 
-- _sampling_ en musica
-- _collage_ en imagen o puntura
+- _sampling_ en música
+- _collage_ en imagen o pintura
 - _remix_ en entornos digitales 
  
-Para Lessig es remix es 
+Para Lessig es remix es:
 
 >"Una expresión crítica de libertad creativa que ninguna sociedad libre debería de restringir en una amplia gama de contextos"   
-(Lessig; 2008, 90pp). 
+
+(Lessig, 2008, p. 90) 
 
 Remix textual e interacción - web - memes, blogs, wikipedia. 
 
 ![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/edit.png) 
 
-_La web ediable_
+**_La web ediable_**
 
 
-"Ya sea un texto o más allá, el remix es collage; emerge de la __combinación de elementos__ de la cultura de _sólo-lectura_; su éxito radica en aprovechar el significado de la referencia para construir algo nuevo." (Lessig, L; 2008, 76 pp.) 
+>"Ya sea un texto o más allá, el remix es collage; emerge de la __combinación de elementos__ de la cultura de _sólo-lectura_; su éxito radica en aprovechar el significado de la referencia para construir algo nuevo." 
+
+(Lessig, 2008, p. 76) 
 
 REMIX en la cultura. Leer/Escribir
 
-Tradución
+### Tradución
 - Folklore
 - Recetas de cocina
 - Parodias
 
-Artes gráficas
+### Artes gráficas
 - Apropiación, réplicas y reinterpretaciones. 
 - Grafitti
 
-Libros e información
+### Libros e información
 - Wikipedia y Wikimedia
 - Fanzine
 - FanFictions
@@ -90,12 +96,13 @@ Libros e información
 - Mapas editables (OpenStreetMap)
 - Flickr o Deviantart
 
-Música 
+### Música 
 - DJing
 - Sampling
 - Mashups de música
+- Remixes
 
-Cine y video
+### Cine y video
 - Adaptaciones 
 - Mashups de video
 - Vidding 
@@ -109,7 +116,7 @@ Cine y video
 
 Imagen [Librenauta](https://twitter.com/librenauta)
 
-## Pirateria cultural 
+## Piratería cultural 
 ### Artivismo contra las estructuras centralizadas de información
 
 La piratería, como movimiento político impulsado por organizaciones como el [Partido Interdimensional Pirata](https://partidopirata.com.ar/). Busca desechar las lógicas instrumentalistas y productivistas del sistema capitalista expresado en los nuevos medios a través de las tecnopolíticas de las redes centralizadas, jerárquicas, misóginas y extractivistas. 
