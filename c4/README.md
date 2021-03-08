@@ -156,6 +156,7 @@ En ese sentido Internet se convierte en un espacio de resistencia, contestación
 - Memética 
 
 En conclusión, en palabras dxl Partido Interdimencional Pirata:  
+
 >"Tenemos que romper con el estereotipo de que la piratería se trata solamente de acceder a bienes culturales de forma gratuita."
 
 >"Hacer de la piratería una forma de reclamar que las corporaciones (estatales y privadas), distribuidoras, productoras y demases, no se enriquezcan con el trabajo no remunerado de les trabajadorxs y al mismo tiempo, generar formas de distribución y difusión autónomas en alianza con les realizadorxs bajo el marco de las economías colaborativas."
