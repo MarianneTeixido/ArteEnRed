@@ -2,7 +2,7 @@
 Licenciatura en Arte Digital   
 Universidad Autónoma del Estado de México
 
-![portada](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/img3.png)
+![portada](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/noche01.png)
 
 ## Objetivos
 - Experimentar con las estrategias de creación visual y con las propuestas de sucesos artísticos en
