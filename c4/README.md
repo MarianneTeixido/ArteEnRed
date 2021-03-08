@@ -194,7 +194,7 @@ Y estan compartidxs bajo [Licencia de Pares Libres (PLP)](https://endefensadelsl
 ### Actividades 
 - Leer de la página 33 a la 48 del libro [Los condenados de la pantalla](https://monoskop.org/images/7/72/Steyerl_Hito_Los_condenados_de_la_pantalla.pdf) de Hito Steyerl. 
 - Discutir sobre el texto. 
-- Ver el documental [El hombre de la cámara](https://vimeo.com/38662356)
+- Ver el documental [El hombre sin la cámara](https://vimeo.com/38662356)
 - Enviar por correo un comentario crítico del documental con base en la lectura. Entregar antes del lunes 15 de marzo. 
 - Comparte en este pad el nombre y el link de las herramientas que encontraste para la realización de los proyectos finales. Ingresa en el siguiente [link](https://cryptpad.fr/sheet/#/2/sheet/edit/h-t32HN-B-k4-rXNsvU1GqMv/)
 
