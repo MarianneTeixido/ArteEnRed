@@ -201,7 +201,7 @@ Y estan compartidxs bajo [Licencia de Pares Libres (PLP)](https://endefensadelsl
 
 ## Processing 
 
-A partir de herramientas como Processing, podemos transformar, editar, remixer datos. Estos datos datos pueden ser textos, imágenes, video, bases de datos, flujos de audio y video. Para realizar estas transformaciones debemos de adentrarnos en los principios de la programación con fines creativos.
+A partir de herramientas como Processing, podemos transformar, editar y remixer datos. Estos datos datos pueden ser textos, imágenes, video, bases de datos, flujos de audio y video. Para realizar estas transformaciones debemos de adentrarnos en los principios de la programación con fines creativos.
 
 A continuación realizaremos un repaso de algunos temas vistos en la clase pasada y haremos un ejercicio de remix con las imágenes que trajeron para la clase.  
 
@@ -210,7 +210,7 @@ A continuación realizaremos un repaso de algunos temas vistos en la clase pasad
 
 En términos de código, símbolos como +, - y * son operadores. Cuando aparecen entre dos valores, crean una expresión. 
 
-Por ejemplo 5 + 9 y 1024 - 512 son ambas experesiones. 
+Por ejemplo 5 + 9 y 1024 - 512  ambas son expresiones. 
 
 Los operadores para realizar operaciones matemáticas básicas son: 
 
@@ -223,7 +223,7 @@ Los operadores para realizar operaciones matemáticas básicas son:
 | =       | Igual a          |
 
 
-Processing tiene una serie de reglas para definir que operadores tienen preferencia. Esto quiere decir que algunos cálculos se hacen primero, luego otros y luego otros. 
+Processing tiene una serie de reglas para definir qué operadores tienen preferencia. Esto quiere decir que algunos cálculos se hacen primero, luego otros y luego otros. 
 
 Estas reglas definen el orden de declaración del código cuando se ejecuta. 
 
@@ -236,7 +236,7 @@ y = (3 + 4) * 5 // Asigna 35 a y
 ```
 
 
-En este caso la operación 4 * 5 se evalúa primero debido a que la multiplicación tiene la prioridad más alta. Resultando en 20. Posteriormente, al producto de 4 * 5 se le agrega 3, igualando x a 23.  
+En este caso, la operación 4 * 5 se evalúa primero debido a que la multiplicación tiene la prioridad más alta. Resultando en 20. Posteriormente, al producto de 4 * 5 se le agrega 3, igualando x a 23.  
 
 Para forzar el orden de las operaciones se utilizan los paréntesis. Todo lo que está entre paréntesis se calcula primero. 
 
@@ -272,21 +272,13 @@ println("Corre continuamente");
 }
 ```
 
-El ejemplo anterior no dibuja sino que imprime valores en la consola vía la función `println()`. Si ejecutamos el programa, luego lo detenemos y finalmente exploramos la consola de mensajes, podemos ver que el mensaje "Inició setup" se imprimió solamente una vez en cuanto inició el programa. Posteriormente, el mensaje "Corre continuamente" se imprime continuamente, con cada vuelta que da `javadraw()` y que se interrumpe en cuanto detenemos el programa. Hay otras formas de detener y reiniciar `draw()`. Más adelante en el curso las revisaremos. 
+El ejemplo anterior no dibuja sino que imprime valores en la consola vía la función `println()`. Si ejecutamos el programa, luego lo detenemos y finalmente exploramos la consola de mensajes, podemos ver que el mensaje "Inició setup" se imprimió solamente una vez en cuanto inició el programa. Posteriormente, el mensaje "Corre continuamente" se imprime continuamente, con cada vuelta que da `draw()` y que se interrumpe en cuanto detenemos el programa.
 
 ### Interacción con mouse: variables mouseX, mouseY
 
-Es posible utilizar la entrada del mouse como una forma de controlar la posición y los atributos de las formas en la pantalla.
+Es posible utilizar la entrada del mouse como una forma de controlar la posición y los atributos de las formas en la pantalla. Tomemos en cuenta que la pantalla puede ser un puente entre los gestos de nuestro cuerpo y el conjunto de circuitos y electricidad que están dentro de la computadora. 
 
-Historia del ratón. 
-
-Tomemos en cuenta que la pantalla puede ser un puente entre los gestos de nuestro cuerpo y el conjunto de circuitos y electricidad que están dentro de la computadora. 
-
-De entre los muchos dispositivos que existen para controlar elementos en la pantalla se encuentran el teclado y el ratón. 
-
-El ratón como dispositivo se utiliza para controlar la posición de un cursor en pantalla y para seleccionar elementos. 
-
-Cuando la computadora lee los valores de la posición del ratón, está leyendo dos valores: la coordenada en x y la coordenada en y. 
+Cuando la computadora lee los valores de la posición del ratón, está leyendo la coordenada en x y la coordenada en y. 
 
 Si bien la lectura de estos dos elementos puede ser relativamente sencilla, también se puede extraer y analizar información de otro tipo, como la velocidad y la dirección. 
 
@@ -335,7 +327,7 @@ El dato más simple que existe en Processing es la variable booleana. Como ya me
 
 Las variables booleanas toman su nombre del matemático George Boole, inventor del algebra booleana, uno de los fundamentos de como funcionan las computadoras digitales. 
 
-Una variable booleana por lo general se utiliza para tomar decisiones, por ejemplo, qué líneas de código son ejecutadas y cuales son ignoradas. 
+Una variable booleana por lo general se utiliza para tomar decisiones, por ejemplo, qué líneas de código son ejecutadas y cuáles son ignoradas. 
 
 `boolean b = true;`
 
@@ -367,7 +359,7 @@ Para el caso de las condicionales del ejemplo ejecutado, hay expresiones relacio
 
 
 ```java
-x = 90
+int x = 90;
 
 if (x < 100) {
 rect(35, 35, 30, 30);
@@ -397,10 +389,12 @@ void setup() {
 size(240, 120);
 strokeWeight(30);
 }
+
 void draw() {
 background(204);
 stroke(102);
 line(40, 0, 70, height);
+
 if (mousePressed) { // aquí utilizamos mousePressed como una variable booleana
 stroke(0);
 } else {
@@ -422,11 +416,9 @@ if (test) {
 
 ## Imágenes en el contexto digital
 
-El fundamento de las fotografías y las imágenes digitales es distinta a las analógicas.Las imagenes funcionan de manera similar a la pantalla de la computadora: son rejillas rectangulares de color. 
+El fundamento de las fotografías y las imágenes digitales es distinto a las analógicas. Las imágenes funcionan de manera similar a la pantalla de la computadora: son rejillas rectangulares de color. 
 
 Las dimensiones de las imagenes se miden en unidades llamadas pixeles, que de hecho es la medida con la que hemos estado trabajando todo este tiempo en Processing. Se puede obtener el total de pixeles de una imagen multiplicando la cantidad de pixeles a lo ancho por la cantidad de pixeles de alto. 
-
-Cada imagen digital tiene una profundidad de color. La profundidad de color refiere al número de bits usados para almacenar cada pixel. Si la profundidad es de uno, entonces se pueden almacenar dos valores de color solamente. Si la profundidad de color de una imagen es 8, entonces cada pixel puede tener un valor de hasta 256 valores. 
 
 Entonces: las imágenes digitales están compuestas de series de números que representan colores. 
 
@@ -489,7 +481,7 @@ tint(255, 201, 0, 104);
 image(img, 40, 40, img.width/2, img.height/2);
 ```
 
-Con teñido, transparencias y modificación del color para teñir una imagen podemos tener los primeros pasos para realizar nuestra clase que modifique imagenes. 
+Agrego este bloque de código que almacena un frame de su canvas cuando presionan el mouse.
 
 ```java
 void mousePressed(){
@@ -499,13 +491,13 @@ saveFrame("imagen.png");
 
 ## Ejercicio 
 
-- Realiza un collage, puede ser estático o dinámico. Implementa lo revisado hasta ahora; transparencias, tinte, condicionales, aleatoreidad, interacción con el mouse,etc. Usa una imagen repetida o varias. Combina formatos, PNG y JPG. 
-- Haz una captura del resultado y comprime en .zip esta junto con la carpeta con el código y las imagenes que usaste. Debe de compilar en mi computadora.
+- Realiza un collage, puede ser estático o dinámico. Implementa lo revisado hasta ahora; transparencias, tinte, condicionales, aleatoreidad, interacción con el mouse,etc. Usa una imagen repetida o varias. Puedes utilizar ambos formatos; PNG y/o JPG. 
+- Haz una captura del resultado y comprime en .zip ésta junto con la carpeta con el código y las imágenes que usaste. Debe de compilar en mi computadora.
 - Nombra el archivo comprimido con tu apellido y nombre, de la siguiente forma.  
  
 Teixido-Marianne.zip   
  
-- Envíala el zip antes del 15 de marzo a mi correo. 
+- Envía el zip antes del 15 de marzo a mi correo. 
 - Criterios a considerar: Estética, concepto, código. 
 
 
