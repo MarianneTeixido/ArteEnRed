@@ -2,12 +2,9 @@
 
 ![collage](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/collage.png)
 
+"Queremos vivir, no sobrevivir.  
+Le quiero dar unas gordas gracias a quienes pusieron el cuerpo en las calles este fin de semana. Gracias a las feministas por los derechos que nos han dado con sus luchas, y por todos los que van a ganar. ¿ustedes por qué marcharon este 8M? (si conocen a las dueñas de los carteles o las fotos, me lo hacen saber para etiquetarlas)"   
 Collage del #8M2020 por [@la_amarillista](https://www.instagram.com/p/B9kutFgls_w/)
-
-Y cito: 
-"Queremos vivir, no sobrevivir.
-
-Le quiero dar unas gordas gracias a quienes pusieron el cuerpo en las calles este fin de semana. Gracias a las feministas por los derechos que nos han dado con sus luchas, y por todos los que van a ganar. ¿ustedes por qué marcharon este 8M? (si conocen a las dueñas de los carteles o las fotos, me lo hacen saber para etiquetarlas)"
 
 ## Remix como práctica cultural
 
@@ -108,7 +105,7 @@ __"La copia comparte la cultura"__
 
 En donde queda explísito que la cultura no es algo que se posea o no sino que son bienes culturales que se comparten. 
 
-Acá algunos apuntes de Librenauta al respecto de la cultura de la piratería. Recuperado de  #Copyfight!, 2021. [https://copiona.com/licuadora/2021/02/06/copyfight.html](https://copiona.com/licuadora/2021/02/06/copyfight.html)
+Acá algunos apuntes de Librenauta al respecto de la cultura de la piratería. Recuperado de  #Copyfight!, 2021. [Copiona](https://copiona.com/licuadora/2021/02/06/copyfight.html)
 
 
 "Sin copias no existe hip hop, ni collage, ni remix, ni memes! y como planeamos no quedarnos sin principalmente (MEMES), es que creamos guías de batalla contra la normalización del “acceso” a la cultura
@@ -158,12 +155,12 @@ Por último, también podemos entener la apropiación como una forma de acceso a
 
 ![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/lo-tecnico.jpg) 
 
-La información, imágenes y texto de este apartado y [Piratería Cultural](#pirateria-cultural)fue consultada, copiada y remixeada de:  
+La información, imágenes y texto de este apartado y [Piratería Cultural](#pirateria-cultural) fue consultada, copiada y remixeada de:  
 [¡Quiero ser pirata!](https://utopia.partidopirata.com.ar/quiero_ser_pirata.html#por-qu%C3%A9-piratas)  
 [Piratería, apropiación, invisibilización, capital social y cultura libre](https://partidopirata.com.ar/2021/03/02/pirateria-apropiacion-invisibilizacion-capital-social-y-cultura-libre/)
 [Un zine de licencias](https://utopia.partidopirata.com.ar/zines/licencias_libres.html)
 
-Toda los recursos en el apartado de _Piratería cultural_ y _Apropiación_ estan compartidos bajo [Licencia de Pares Libres](https://endefensadelsl.org/ppl_deed_es.html)(PPL)
+Todxs los recursos en el apartado [Apropiación](#apropiacion) y [Piratería cultural](#pirateria-cultural) estan compartidos bajo [Licencia de Pares Libres](https://endefensadelsl.org/ppl_deed_es.html)(PPL)
 
 ## Materialidad de las imágenes
 
