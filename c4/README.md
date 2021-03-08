@@ -7,12 +7,16 @@
 - [Materialidad de las imágenes](#materialidad-de-las-imagenes)
 	- [Actividades](#actividades)
 - [Processing](#processing)
-	- []()
-	- []()
-	- []()
-	- []()
-	- []()
-	- []()
+	- [Operadores aritméticos](#operadores-aritmeticos)
+	- [Modo dinámico](#modo-dinamico)
+	- [Interacción con mouse: variables mouseX, mouseY](#interaccion-con-mouse-variables-mousex-mousey)
+	- [Variables booleanas](#variables-booleanas)
+	- [Condicionales simples](#condicionales-simples)
+- [Imágenes en el contexto digital](#imagenes-en-el-contexto-digital)
+	- [Despliegue de imágenes](#despliegue-de-imagenes)
+- [Ejercicio](#ejercicio)
+	
+	
 ![collage](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/collage.png)
 
 "Queremos vivir, no sobrevivir.  
@@ -232,27 +236,6 @@ x += 10; // es igual a x = x +10
 ```java
 x ++; // es igual a x = x + 1 
 ```
-
-### Variables booleanas
-
-Processing puede almacenar y modificar diferentes tipos de datos. 
-
-Estos pueden ser: números, letras, colores, imágenes, fuentes y valores booleanos. 
-
-Los valores booleanos son aquellos que pueden tener "verdadero" o "falso" como valor. 
-
-El dato más simple que existe en Processing es la variable booleana. Como ya mencionamos, estas variables pueden tener solamente uno de dos valores (cierto o falso). 
-
-Las variables booleanas toman su nombre del matemático George Boole, inventor del algebra booleana, uno de los fundamentos de como funcionan las computadoras digitales. 
-
-Una variable booleana por lo general se utiliza para tomar decisiones, por ejemplo, qué líneas de código son ejecutadas y cuales son ignoradas. 
-
-`boolean b = true;`
-
-El ejemplo anterior puede utilizarse para el caso de las proposiciones antes mencionadas. 
-
-Variables booleanas y los distintos estados del ratón como método de entrada. 
-
 ### Modo dinámico
 
 Ya hemos mencionado que Processing tiene dos modos separados: activo y estático. 
@@ -325,6 +308,27 @@ void draw(){
 println(mousePressed); 
 }
 ```
+
+
+### Variables booleanas
+
+Processing puede almacenar y modificar diferentes tipos de datos. 
+
+Estos pueden ser: números, letras, colores, imágenes, fuentes y valores booleanos. 
+
+Los valores booleanos son aquellos que pueden tener "verdadero" o "falso" como valor. 
+
+El dato más simple que existe en Processing es la variable booleana. Como ya mencionamos, estas variables pueden tener solamente uno de dos valores (cierto o falso). 
+
+Las variables booleanas toman su nombre del matemático George Boole, inventor del algebra booleana, uno de los fundamentos de como funcionan las computadoras digitales. 
+
+Una variable booleana por lo general se utiliza para tomar decisiones, por ejemplo, qué líneas de código son ejecutadas y cuales son ignoradas. 
+
+`boolean b = true;`
+
+El ejemplo anterior puede utilizarse para el caso de las proposiciones antes mencionadas. 
+
+Variables booleanas y los distintos estados del ratón como método de entrada. 
 
 
 ### Condicionales simples
@@ -403,8 +407,6 @@ if (test) {
 }
 ```
 
-
-
 ## Imágenes en el contexto digital
 
 El fundamento de las fotografías y las imágenes digitales es distinta a las analógicas.Las imagenes funcionan de manera similar a la pantalla de la computadora: son rejillas rectangulares de color. 
@@ -482,7 +484,7 @@ saveFrame("imagen.png");
 }
 ```
 
-### Actividad 
+## Ejercicio 
 
 - Realiza un collage, puede ser estático o dinámico. Implementa lo revisado hasta ahora; transparencias, tinte, condicionales, aleatoreidad, interacción con el mouse,etc. Usa una imagen repetida o varias. Combina formatos, PNG y JPG. 
 - Haz una captura del resultado y comprime en .zip esta junto con la carpeta con el código y las imagenes que usaste. Debe de compilar en mi computadora.
