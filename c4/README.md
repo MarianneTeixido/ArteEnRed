@@ -30,31 +30,31 @@ Algunas citas.
 
 >"El Remix es meta -nunca es original. Al mismo tiempo, cuando es implementado efectivamente, puede volverse una __herramienta de autonomía__"   
 
-Navas, Eduardo (2012) Remix Theory. The aesthetics of sampling. Springer-Verlag/Wien, New York, 116 pp.
+(Nava, 2012, p. 116)
 
 >"Remix implica tomar material preexistente y hacerlo diferente intentando preservar el aura espectacular del original para obtener legitimación alegórica."
 
-(Nava; 2012, 12 pp.)
+(Nava, 2012, p. 12)
 
 Las aproximaciones al remix pueden ser desde lo creativo, autoral, legal e incluso, político. 
 
-
 Laurence Lessig, es fundador de la organización sin fines de lucro Creative Commons, junto a Hal Abelson y Eric Eldred. 
 
-Para Lessig, la cultura del remix es una amalgama entre la práctica, creatividad desde las economías híbiras. A través de las Licencias de Creative Commons, Lessig propone una alternativa dentro del "estado de derecho", a las estrictas leyes de Copyright en EE.UU. 
+Para Lessig, la cultura del remix es una amalgama entre práctica y creatividad desde las economías híbridas. A través de las Licencias de Creative Commons, Lessig propone una alternativa dentro del "estado de derecho", a las estrictas leyes de Copyright en EE.UU. 
 
 
-_"«No robarás» ha sido una admonición seguida desde los albores_
-_de la civilización. Por desgracia, en el moderno mundo de los_
-_negocios esta admonición no siempre se cumple. Es más, los_
-_demandados en este caso por infracción de copyright querrían_
-_inducir a este tribunal a creer que el robo campa a sus anchas en_
-_el negocio de la música y que, por esa razón, su conducta aquí_
-_debería excusarse. La conducta de los demandados en el presente_
-_caso, sin embargo, no solo viola el Séptimo Mandamiento sino_
-_también las leyes de copyright de este país."_
+>"«No robarás» ha sido una admonición seguida desde los albores
+de la civilización. Por desgracia, en el moderno mundo de los
+negocios esta admonición no siempre se cumple. Es más, los
+demandados en este caso por infracción de copyright querrían
+inducir a este tribunal a creer que el robo campa a sus anchas en
+el negocio de la música y que, por esa razón, su conducta aquí
+debería excusarse. La conducta de los demandados en el presente
+caso, sin embargo, no solo viola el Séptimo Mandamiento sino
+también las leyes de copyright de este país."
 
-Juicio Grand Upright Music Ltd. vs. Warner Bros. Records Inc. en Lessig, L. (2008) _Remix. Cultura de la remezcla y derechos de autor en el entorno digital_, 87 pp. 
+Juicio Grand Upright Music Ltd. vs. Warner Bros. Records Inc.  
+(Lessig, 2008, p. 87) 
 
 - _sampling_ en musica
 - _collage_ en imagen o puntura

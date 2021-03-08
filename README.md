@@ -112,6 +112,8 @@ Simón Marchand Fiz. Real virtual. Paidós, Editorial Barcelona. 2008
 
 
 Complementario:  
+- Navas, Eduardo (2012) Remix Theory. The aesthetics of sampling. Springer-Verlag/Wien, New York.
+- Lessig, L. (2008) _Remix. Cultura de la remezcla y derechos de autor en el entorno digital. 
 - Haraway, D. (1988). Manifiesto cíborg. Londres: Stenberg Press  
 - Manovich, Lev (2002). Generation Flash. Obtenido de [http://aleph-arts.org/ubiquid/texto.php?Id=5](http://aleph-arts.org/ubiquid/texto.php?Id=5)
 - Prada, J. M. (2012). Prácticas artísticas e internet en la época de las redes sociales. Madrid, España: Akal.  
