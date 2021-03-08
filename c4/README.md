@@ -155,7 +155,7 @@ Por último, también podemos entener la apropiación como una forma de acceso a
 
 ¿Cómo hacer que las tecnología dejen de hacer lo que no queremos que hagan y cómo hacer para que hagan lo que sí queremos?
 
-![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/lo_técnico.jpg) 
+![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/lo-tecnico.jpg) 
 
 La información, imágenes y texto de este apartado y de _Piratería Cultural_ fue consultada, copiada y remixeada de:  
 [¡Quiero ser pirata!](https://utopia.partidopirata.com.ar/quiero_ser_pirata.html#por-qu%C3%A9-piratas)  
