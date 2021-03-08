@@ -1,6 +1,6 @@
 # Arte en la Red
-Licenciatura en Arte Digital   
-Universidad Autónoma del Estado de México
+__Licenciatura en Arte Digital__
+__Universidad Autónoma del Estado de México__
 
 ![portada](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/noche01.png)
 
