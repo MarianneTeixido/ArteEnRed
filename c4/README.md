@@ -1,7 +1,7 @@
 # Pirateria y Teoría del Remix
 
 ## Contenido 
-- [Remix como práctica cultural](#remix-como-practica-cultural)
+- [Remix como práctica cultural](#remix-como-práctica-cultural)
 - [Pirateria cultural](#pirateria-cultural)
 - [Apropiación](#apropiacion)
 - [Materialidad de las imágenes](#materialidad-de-las-imagenes)
