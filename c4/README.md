@@ -116,40 +116,39 @@ REMIX en la cultura. Leer/Escribir
 
 Imagen [Librenauta](https://twitter.com/librenauta)
 
-## Piratería cultural 
+## Piratería cultural
+ 
 ### Artivismo contra las estructuras centralizadas de información
 
-La piratería, como movimiento político impulsado por organizaciones como el [Partido Interdimensional Pirata](https://partidopirata.com.ar/). Busca desechar las lógicas instrumentalistas y productivistas del sistema capitalista expresado en los nuevos medios a través de las tecnopolíticas de las redes centralizadas, jerárquicas, misóginas y extractivistas. 
+La piratería, como movimiento político impulsado por organizaciones como el [Partido Interdimensional Pirata](https://partidopirata.com.ar/), busca desechar las lógicas instrumentalistas y productivistas del sistema capitalista expresado en los nuevos medios a través de las tecnopolíticas de las redes centralizadas, jerárquicas, misóginas y extractivistas. 
 
 Por medio autocuidados, acompañanamiento, colaboración, empatía, pensamiento y praxis decolonial, compromiso político y técnico, las organizaciones y grupos de activistas y artivistas piratas plantean otras lógicas digitales para desarticular las dinámicas de consumo, comercialización de contenidos, redes y plataformas digitales. Desechando los intereses comerciales para resistir desde la libertad de la cultura. 
 
 La premisa del movimiento pirata se expresa en frases como :
 
-__"Copiar _nunca_ es robar sí es multiplicar"__  
+>__"Copiar _nunca_ es robar sí es multiplicar"__  
 __"La copia comparte la cultura"__  
 
-En donde queda explísito que la cultura no es algo que se posea o no sino que son bienes culturales que se comparten. 
+En donde queda explícito que la cultura no es algo que se posea o no sino que son bienes culturales que se comparten. 
 
 Acá algunos apuntes de Librenauta al respecto de la cultura de la piratería. Recuperado de  #Copyfight!, 2021. [Copiona](https://copiona.com/licuadora/2021/02/06/copyfight.html)
 
 
-"Sin copias no existe hip hop, ni collage, ni remix, ni memes! y como planeamos no quedarnos sin principalmente (MEMES), es que creamos guías de batalla contra la normalización del “acceso” a la cultura
+>"Sin copias no existe hip hop, ni collage, ni remix, ni memes! y como planeamos no quedarnos sin principalmente (MEMES), es que creamos guías de batalla contra la normalización del “acceso” a la cultura"
 
-"La aparición de internet, con sus dispositivos que copiaban información a costo cero, nos trajo una oportunidad unica. Cada copia que haciamos de un .mp3 nos traía el original, dicho de otro modo, todas las copias son originales bit by bit. Así es como vivíamos o intentábamos vivir en este universo de abundancia de datos y cultura los primeros 15 años de la vida de internet hasta que comenzaron a operar las industrias culturales sobre los cables de nuestras redes comunitarias de información (p2p, torrent) y lograron encerrar muchos de los contenidos en plataformas de “stream” que ya conocemos.
+>"La aparición de internet, con sus dispositivos que copiaban información a costo cero, nos trajo una oportunidad unica. Cada copia que haciamos de un .mp3 nos traía el original, dicho de otro modo, todas las copias son originales bit by bit. Así es como vivíamos o intentábamos vivir en este universo de abundancia de datos y cultura los primeros 15 años de la vida de internet hasta que comenzaron a operar las industrias culturales sobre los cables de nuestras redes comunitarias de información (p2p, torrent) y lograron encerrar muchos de los contenidos en plataformas de “stream” que ya conocemos."
 
-"Acceder de forma online no es apropiarse. Descargar, guardar, compartir en un mail, bajar a un pendrive, hacer un torrent es apropiarse la cultura; hacerla disponible para otras en plataformas colectivas es hacer la cultura. Pero las prácticas de colectivización y expropiación las piratas que habitamos la interdimensión de la red las tenemos muy estudiadas, queda descifrar cómo vincular a las artistas productoras de contenido con las formas de compartir y capitalizar su trabajo sin que sean cooptadas por las plataformas de la maquinaria antes del primer parpadeo de remix." 
+>"Acceder de forma online no es apropiarse. Descargar, guardar, compartir en un mail, bajar a un pendrive, hacer un torrent es apropiarse la cultura; hacerla disponible para otras en plataformas colectivas es hacer la cultura. Pero las prácticas de colectivización y expropiación las piratas que habitamos la interdimensión de la red las tenemos muy estudiadas, queda descifrar cómo vincular a las artistas productoras de contenido con las formas de compartir y capitalizar su trabajo sin que sean cooptadas por las plataformas de la maquinaria antes del primer parpadeo de remix." 
 
 __-No hay futuro sin eliminar la propiedad intelectual-__
 
-
 A partir del nexo entre política y tecnología -_tecno-políticas_- las activistas anti-globalización adoptaron un abordaje tecno-político al que describo como ciber-autonomista, enraizado en la contra-cultura de los ’70 y ’80, la cultura DIY y la tradición de los medios alternativos; que van desde las radios piratas hasta los fanzines.  Esta perspectiva del ciber-autonomismo toma Internet como un espacio autónomo que puede ser autogestivo desde redes libres y desentralizadas. 
-
 
 En ese sentido Internet se convierte en un espacio de resistencia, contestación contra-cultural y de movilización contra-hegemónica.
 
 ![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/torrent.png) 
 
-Estrategias de resistencia.
+### Estrategias de resistencia.
 
 - El copyleft, las licencias no violentas y de producción de pares
 - El torrenteo
@@ -157,10 +156,11 @@ Estrategias de resistencia.
 - Memética 
 
 En conclusión, en palabras dxl Partido Interdimencional Pirata:  
-"Tenemos que romper con el estereotipo de que la piratería se trata solamente de acceder a bienes culturales de forma gratuita.  
-"Hacer de la piratería una forma de reclamar que las corporaciones (estatales y privadas), distribuidoras, productoras y demases, no se enriquezcan con el trabajo no remunerado de les trabajadorxs y al mismo tiempo, generar formas de distribución y difusión autónomas en alianza con les realizadorxs bajo el marco de las economías colaborativas.  
-"Nuestra tarea como piratas es pensar una ética de la liberación de la cultura, un conjunto de metodologías, formas de organizarnos y establecer alianzas para poner en circulación nuestros bienes culturales comunes."
+>"Tenemos que romper con el estereotipo de que la piratería se trata solamente de acceder a bienes culturales de forma gratuita."
 
+>"Hacer de la piratería una forma de reclamar que las corporaciones (estatales y privadas), distribuidoras, productoras y demases, no se enriquezcan con el trabajo no remunerado de les trabajadorxs y al mismo tiempo, generar formas de distribución y difusión autónomas en alianza con les realizadorxs bajo el marco de las economías colaborativas."
+ 
+>"Nuestra tarea como piratas es pensar una ética de la liberación de la cultura, un conjunto de metodologías, formas de organizarnos y establecer alianzas para poner en circulación nuestros bienes culturales comunes."
 
 ## Apropiación
 
