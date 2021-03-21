@@ -24,8 +24,14 @@ Control de un servidor local.
 
 Análisis a través de casos emblemáticos. 
 
-- Redes sociales: Diáspora, Mastodont, Lurk, etc. 
-- Streaming con lógica descentralizada y libre: PeerTube.
+- Redes sociales
+	- [Diáspora](https://diasporafoundation.org/) 
+	- [Mastodon](https://joinmastodon.org/)
+	- [Lurk](https://lurk.org/),
+	- [PixelFed](https://pixelfed.org/) 
+	- [etc](https://fediverse.party/) 
+	
+- Streaming con lógica descentralizada y libre: [PeerTube](https://joinpeertube.org/).
 
 ![](https://github.com/MarianneTeixido/ArteEnRed/blob/main/img/peertube.jpg)
 
@@ -35,10 +41,10 @@ Análisis a través de casos emblemáticos.
 	- [Distribuited Web of Care](http://distributedweb.care/posts/community/) por Taeyoon Choi. 
 	- [Feminist Server Manifiesto 0.01](https://areyoubeingserved.constantvzw.org/Summit_afterlife.xhtml) por Feminist Server Summit. 
 
-- Proyectos académicos. 
+- [Proyectos académicos](https://torrentfreak.com/meet-the-guy-behind-the-libgen-torrent-seeding-movement-191205/) 
 	- [Sci-hub](https://sci-hub.se/)
 	- [LibGen](https://libgen.is/)
-
+	
 ## Ejercicio
 
 - Detectar los elementos más importantes de los proyectos mencionados u otros que conocozcas. 
