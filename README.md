@@ -46,7 +46,7 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 
 - [ ] [Clase 04. Piratería y Teoría del Remix](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c4)
 
-- [ ] [Clase 05. Redes P2P]()
+- [ ] [Clase 05. Redes P2P](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c5)
 
 - [ ] [Clase 06. Examen Ensayo]()
 
