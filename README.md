@@ -48,7 +48,7 @@ Para consultar el calendario, da click [acá](https://github.com/MarianneTeixido
 
 - [ ] [Clase 05. Redes P2P](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c5)
 
-- [ ] [Clase 06. Examen Ensayo]()
+- [ ] [Clase 06. Examen Ensayo](https://github.com/MarianneTeixido/ArteEnRed/tree/main/c6)
 
 - [ ] [Clase 07. Comunidades digitales de creación. Entrega escrita del proyecto a desarrollar]()
 

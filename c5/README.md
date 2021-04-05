@@ -52,8 +52,8 @@ Análisis a través de casos emblemáticos.
 
 # Processing 
 
-- Respaso procesamiento de imágenes.
-- Pixeles, código [acá]()
+- Respaso procesamiento de imágenes con pixeles.
+- Pixeles, código [acá](https://gist.github.com/MarianneTeixido/de1da72381c5bd17f6cc22d3d87dafa7)
  
 
 
