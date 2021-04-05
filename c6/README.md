@@ -4,8 +4,9 @@
 
 - Realiza una búsqueda en internet de alguna pieza online que consideres Arte en la Red. 
 
-- Ya localizada la pieza expone y haz una reflexión crítica de la obra, su autorx, s y contexto. En qué consiste, cómo funciona, qué problematiza, etc.  
- __IMPORTANTE__: No se aceptan citas al texto, deberás incluir la referencia de la pieza en la bibliografía de tu ensayo. No olvides incluir la URL   
+- Ya localizada la pieza expone y haz una reflexión crítica de la obra, su autorx, realización técnica y contexto. En qué consiste, cómo funciona, qué problematiza, etc.  
+
+ __IMPORTANTE__: Deberás incluir la referencia de la pieza en la bibliografía de tu ensayo. No olvides incluir la URL   
 
 - Fundamenta la razón por la que consideras que esa pieza es Arte en la Red. 
 
@@ -18,8 +19,6 @@
 - Añade la bibliografía.
 
 ## Formato
-
-- Tres cuartillas mínimo, 5 máximo. Puedes añadir imágenes siempre y cuando sean mínimo 3 cuartillas de texto. 
 
 - Times New Roman 12, 1.5 interlineado, sin justificar. 
 
